@@ -71,6 +71,6 @@ This repository serves as a **public overview**.
 Product development, internal logic, and proprietary models are maintained in private repositories.
 
 ---
-Contact
+Join hundreds of psychologists transforming their practice:
 🌐 https://www.omniacr.com
 
