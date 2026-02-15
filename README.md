@@ -1,7 +1,11 @@
 # omnia-platform-overview
  OmniaCR – Integrative Clinical Analysis Platform
 
-OmniaCR is an AI-powered platform designed to support mental health professionals in the analysis of complex clinical cases through a structured, multidimensional, and evidence-informed approach.
+Omnia is an integrative analysis platform designed as a clinical reasoning assistant for mental health professionals and complementary approaches. The platform supports psychotherapists, psychologists, integrative coaches, and professionals who work with complex cases where a multidimensional view of the human being is essential.
+Omnia thinks alongside you, helping organize clinical information, identify meaningful patterns, and support deeper analysis without replacing professional judgment. It offers a clear and practical experience for more in-depth case understanding, especially when working with extensive histories or multiple clinical variables.
+Ideal for those who want to modernize their practice without sacrificing human depth, Omnia aims to become a reliable support for reflective decision-making, progress tracking, and the construction of more coherent and personalized intervention pathways.
+
+Omnia helps therapists integrate clinical information, detect patterns, generate hypotheses, and improve process clarity through a clinical reasoning assistant.
 
 This repository provides an overview of the OmniaCR platform, its purpose, target audience, core capabilities, and guiding principles.
 
