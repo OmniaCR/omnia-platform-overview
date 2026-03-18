@@ -11,7 +11,7 @@ This repository provides an overview of the OmniaCR platform, its purpose, targe
 
 ---
 
-## What is OmniaCR?
+## What is Omnia?
 
 OmniaCR combines **multidimensional integrative analysis** with **artificial intelligence** to help clinicians organize patient information, identify meaningful patterns across multiple dimensions, and explore potential hypotheses and intervention pathways.
 
@@ -19,7 +19,7 @@ Unlike generic AI tools, OmniaCR is designed to **support — not replace — cl
 
 ---
 
-## What Makes OmniaCR Unique?
+## What Makes Omnia Unique?
 
 - Multidimensional integrative clinical analysis
 - AI-assisted pattern detection across psychological, behavioral, and contextual dimensions
@@ -30,7 +30,7 @@ Unlike generic AI tools, OmniaCR is designed to **support — not replace — cl
 
 ---
 
-## Why Choose OmniaCR?
+## Why Choose Omnia?
 
 Professionals choose OmniaCR because it:
 
@@ -44,7 +44,7 @@ Professionals choose OmniaCR because it:
 
 ## Target Audience
 
-OmniaCR is designed for:
+Omnia is designed for:
 
 - Psychologists  
 - Psychotherapists  
@@ -55,7 +55,7 @@ OmniaCR is designed for:
 
 ## The Story Behind OmniaCR
 
-OmniaCR was created to address a growing challenge in mental health practice: managing large volumes of patient information while detecting subtle patterns across multiple dimensions.
+Omnia was created to address a growing challenge in mental health practice: managing large volumes of patient information while detecting subtle patterns across multiple dimensions.
 
 While clinicians bring extensive expertise, synthesizing complex data can be time-consuming and cognitively demanding. OmniaCR was built to assist clinicians by organizing information, highlighting relevant patterns, and suggesting potential hypotheses — always leaving final decisions in the hands of the professional.
 
@@ -65,7 +65,7 @@ From its inception, OmniaCR has focused on improving clarity, efficiency, and qu
 
 ## Core Principle
 
-> OmniaCR supports clinical thinking — it does not replace it.
+> Omnia supports clinical thinking — it does not replace it.
 
 ---
 
